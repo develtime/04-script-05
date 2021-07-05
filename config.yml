@@ -1,0 +1,4 @@
+config:
+        version: "v1"
+        type: "test"
+        comment: "example config"

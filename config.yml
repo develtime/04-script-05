@@ -1,4 +1,4 @@
 config:
-        version: "v1.3"
+        version: "v1.4"
         type: "test"
-        comment: "example configth fixes v1.3"
+        comment: "example configth fixes v1.4"
